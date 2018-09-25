@@ -50,6 +50,8 @@
     - [Kepler Deep Learning Network](https://github.com/exowanderer/KeplerDeepLearningNetwork)
 - **Resources**:
     - [How to pick your algorithm](https://www.kdnuggets.com/2017/11/machine-learning-algorithms-choose-your-problem.html)
+    - [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
+    - [Detecting the Unexpected: Discovery in the Era of Astronomically Big Data](https://www.lsstcorporation.org/node/107) and [PDF](https://www.lsstcorporation.org/sites/default/files/8b%20Monday%20Detecting%20the%20Unexpected%20LSST.PDF)
 
 ### 05 - NOAO Data Lab: Tutorials and Demos
 

@@ -11,5 +11,7 @@ This repository compiles information about the [.Astronomy X](https://www.dotast
 
 ## Useful links
 
+- [Main Booklet](./Documents/dotAstronomy_Workshop_Electronic_Booklet.pdf)
 - [Conference Webcast](https://webcast.stsci.edu/webcast/searchresults.xhtml?searchtype=40&daterange=-30&sortmode=1)
 - [Main .Astronomy website](https://www.dotastronomy.com/)
+- [Participants](https://www.dotastronomy.com/ten-participants/)
