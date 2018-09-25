@@ -33,22 +33,24 @@
 
 ### 01 - Bokeh 101
 
-- **Speaker**: David R.
+- **Speaker**: David Rodriguez (STScI)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit?usp=sharing)
+- **Resources**:
+    - [iPython Notebook](https://github.com/dr-rodriguez/dotAstroX_scripts/blob/master/bokeh_live_demo.py.ipynb)
 
 ### 02 - Make Astro People Believe Social Scientists
 
-- **Speaker**: Azalee
+- **Speaker**: Azalee Bostroem (UC Davids)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit?usp=sharing)
 
 ### 03 - What Can Google Do for Astronomers
 
-- **Speaker**: Rob S.
+- **Speaker**: Robert Simpson (Google)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit?usp=sharing)
 
 ### 04 - Deep Learning with Kepler
 
-- **Speaker**: Jonathan F. [Github](https://github.com/exowanderer)
+- **Speaker**: Jonathan Fraine (STScI) [Github](https://github.com/exowanderer)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit?usp=sharing)
 - **Paper**: Transit Clairvoyage: Enhancing TESS follow-up using artificial neural network ([PDF](https://academic.oup.com/mnras/article/465/3/3495/2627194))
 - **Repository**:
@@ -60,17 +62,17 @@
 
 ### 05 - NOAO Data Lab: Tutorials and Demos
 
-- **Speaker**: S. Juneau
+- **Speaker**: Stephanie Juneau (NOAO)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit?usp=sharing)
 
 ### 06 - More Discussion about Credit for Software
 
-- **Speaker**: Chris L.
+- **Speaker**: Chris Lintott (University of Oxford)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit?usp=sharing)
 
 ### 07 - Cloud Compute 101
 
-- **Speaker**: [Ivelina Moncheva](http://www.astro.yale.edu/iva/) - [Twitter](https://twitter.com/iva_momcheva?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- **Speaker**: [Iva Momcheva (STScI)](http://www.astro.yale.edu/iva/) - [Twitter](https://twitter.com/iva_momcheva?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - **Notes**:
     - [Scribe link](https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit?usp=sharing)
 - **Resources**
@@ -82,12 +84,12 @@
 
 ### 08 - Multi-Dimensional Data-Viz with Glue
 
-- **Speaker**: Catherine Z.
+- **Speaker**: Catherine Zucker (Harvard University)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit?usp=sharing)
 
 ### 09 - Thinking More About Race/Gender in Physics
 
-- **Speaker**: Lauren C.
+- **Speaker**: Lauren Chambers (STScI)
 - **Notes**: [Scribe link](https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit?usp=sharing)
 - **Resources**
     - [Fisk-Vanderbilt Bridge Program](http://fisk-vanderbilt-bridge.org/)
