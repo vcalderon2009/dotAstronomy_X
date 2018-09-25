@@ -24,6 +24,11 @@
 
 - **Speaker**: [Brian Nord](http://computing.fnal.gov/brian-nord/) (Fermilab and UChicago)
 
+### 04 - Visualize This: Lessons from the Front-lines of High Performance Visualization
+
+- **Speaker**: Ayat Mohammed
+- **Presentation**: [Link](./Presentations/04_Ayat_Mohammed/04_Ayat_Mohammed_Visualize_presentation.pdf)
+
 ## Unconference Sessions
 
 ### 01 - Bokeh 101
@@ -65,8 +70,10 @@
 
 ### 07 - Cloud Compute 101
 
-- **Speaker**: Iva M.
+- **Speaker**: [Ivelina Moncheva](http://www.astro.yale.edu/iva/) - [Twitter](https://twitter.com/iva_momcheva?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - **Notes**: [Link](https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit?usp=sharing)
+- **Resources**
+    - [EC2 Instance](https://www.ec2instances.info/)
 
 ### 08 - Multi-Dimensional Data-Viz with Glue
 
@@ -77,3 +84,6 @@
 
 - **Speaker**: Lauren C.
 - **Notes**: [Link](https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit?usp=sharing)
+- **Resources**
+    - [Fisk-Vanderbilt Bridge Program](http://fisk-vanderbilt-bridge.org/)
+    - [Columbia Bridge Program](https://bridgetophd.facultydiversity.columbia.edu/)
