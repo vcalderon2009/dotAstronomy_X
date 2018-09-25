@@ -1,0 +1,14 @@
+name: dotAstronomyX
+
+channels:
+  - defaults
+
+dependencies:
+  - python>=3.6
+  - ipython
+  - anaconda
+  - numpy
+  - pip
+  - pip:
+    - GitPython
+    - cosmo-utils
