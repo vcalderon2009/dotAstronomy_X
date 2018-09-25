@@ -43,9 +43,13 @@
 
 ### 04 - Deep Learning with Kepler
 
-- **Speaker**: Jonathan F.
+- **Speaker**: Jonathan F. [Github](https://github.com/exowanderer)
 - **Notes**: [Link](https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit?usp=sharing)
 - **Paper**: Transit Clairvoyage: Enhancing TESS follow-up using artificial neural network ([PDF](https://academic.oup.com/mnras/article/465/3/3495/2627194))
+- **Repository**:
+    - [Kepler Deep Learning Network](https://github.com/exowanderer/KeplerDeepLearningNetwork)
+- **Resources**:
+    - [How to pick your algorithm](https://www.kdnuggets.com/2017/11/machine-learning-algorithms-choose-your-problem.html)
 
 ### 05 - NOAO Data Lab: Tutorials and Demos
 
