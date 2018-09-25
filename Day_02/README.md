@@ -34,22 +34,22 @@
 ### 01 - Bokeh 101
 
 - **Speaker**: David R.
-- **Notes**: [Link](https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit?usp=sharing)
 
 ### 02 - Make Astro People Believe Social Scientists
 
 - **Speaker**: Azalee
-- **Notes**: [Link](https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit?usp=sharing)
 
 ### 03 - What Can Google Do for Astronomers
 
 - **Speaker**: Rob S.
-- **Notes**: [Link](https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit?usp=sharing)
 
 ### 04 - Deep Learning with Kepler
 
 - **Speaker**: Jonathan F. [Github](https://github.com/exowanderer)
-- **Notes**: [Link](https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit?usp=sharing)
 - **Paper**: Transit Clairvoyage: Enhancing TESS follow-up using artificial neural network ([PDF](https://academic.oup.com/mnras/article/465/3/3495/2627194))
 - **Repository**:
     - [Kepler Deep Learning Network](https://github.com/exowanderer/KeplerDeepLearningNetwork)
@@ -61,29 +61,34 @@
 ### 05 - NOAO Data Lab: Tutorials and Demos
 
 - **Speaker**: S. Juneau
-- **Notes**: [Link](https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit?usp=sharing)
 
 ### 06 - More Discussion about Credit for Software
 
 - **Speaker**: Chris L.
-- **Notes**: [Link](https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit?usp=sharing)
 
 ### 07 - Cloud Compute 101
 
 - **Speaker**: [Ivelina Moncheva](http://www.astro.yale.edu/iva/) - [Twitter](https://twitter.com/iva_momcheva?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-- **Notes**: [Link](https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit?usp=sharing)
+- **Notes**:
+    - [Scribe link](https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit?usp=sharing)
 - **Resources**
     - [EC2 Instance](https://www.ec2instances.info/)
+    - [AWS Cloud Products](https://aws.amazon.com/products/)
+    - [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)
+    - [Making HST Public Data Available on AWS - Example](https://mast-labs.stsci.io/2018/06/hst-public-data-on-aws)
+    - [Google Cloud Platform](https://console.cloud.google.com/)
 
 ### 08 - Multi-Dimensional Data-Viz with Glue
 
 - **Speaker**: Catherine Z.
-- **Notes**: [Link](https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit?usp=sharing)
 
 ### 09 - Thinking More About Race/Gender in Physics
 
 - **Speaker**: Lauren C.
-- **Notes**: [Link](https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit?usp=sharing)
+- **Notes**: [Scribe link](https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit?usp=sharing)
 - **Resources**
     - [Fisk-Vanderbilt Bridge Program](http://fisk-vanderbilt-bridge.org/)
     - [Columbia Bridge Program](https://bridgetophd.facultydiversity.columbia.edu/)
