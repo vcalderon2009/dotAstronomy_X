@@ -12,6 +12,7 @@
 ### 02 - A Different Kind of Dark Energy: Placing Race and Gender in Physics
 
 - **Speaker**: Lauren Chambers (StSci)
+- **Online Presentation**: [Webcast](https://webcast.stsci.edu/webcast/detail.xhtml?talkid=7342&parent=1)
 - **Thesis PDF**: [URL](http://tiny.cc/RaceGenderPhysics)
 - **Recommendations**:
     - Teach **science studies** alongside science
