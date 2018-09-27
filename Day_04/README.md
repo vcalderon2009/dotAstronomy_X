@@ -55,7 +55,7 @@ You can see the hacks at:
 
 - **Notes**: [Scribe Link](https://docs.google.com/document/d/1HqoqkwDBock0_lWj-r2YboG2UNGQ8_Lbf8E03NQoLB4/edit)
 
-### 04 - AutoML 101
+### 04 - How do we build a Culture+Software+Data Astro Discovery Engine
 
 - **Notes**: [Scribe Link](https://docs.google.com/document/d/1A5xc7lKXL3LWQtZZ-NAXkF9iFL4SkxP5OmoeV5Gnfwc/edit)
 
@@ -63,13 +63,17 @@ You can see the hacks at:
 
 - **Notes**: [Scribe Link](https://docs.google.com/document/d/1E7D6cIeUpFwAic1PYieBPVd79_Tb85MFZmloQsd8dqg/edit)
 
-### 06 - Reproduciability in Astronomy - How are we doing?
+### 06 - Reproducibility in Astronomy - How are we doing?
 
 - **Notes**: [Scribe Link](https://docs.google.com/document/d/1-UKfyF5jaRuIn98fTZUMSoW3incfCNzrxmn97rcggk4/edit)
 
-### 07 - How do we build a Culter+Software+Data Astro Discovery Engine
+### 07 - AutoML 101
 
-- **Notes**: [Scribe Link](https://docs.google.com/document/d/1A5xc7lKXL3LWQtZZ-NAXkF9iFL4SkxP5OmoeV5Gnfwc/edit)
+- **Notes**: [Scribe Link](https://docs.google.com/document/d/1pT6gw_F2o4FoN0esi7AidN_7tBoPaSNFTc60jh4ejEc/edit)
+- **Resources and Links**:
+    - [Cloud AutoML](https://cloud.google.com/automl/)
+    - [AutoML - Cloud Example](https://codelabs.developers.google.com/codelabs/cloud-automl-vision-intro/index.html?index=..%2F..%2Findex#0)
+    - [Google Blog](https://ai.googleblog.com/)
 
 
 ### 08 - Which Viz Tools to Use to Explore Images/Catalogues
